@@ -2,8 +2,6 @@
 
 OQP is a ridiculously small tool for working with Jupyter notebooks and [DVC](https://dvc.org).
 
-## Notebook to Python script
-
 Convert a notebook to a Python script:
 
 ```shell
